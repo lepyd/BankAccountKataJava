@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "bankaccount",
+                "projectName": "bankaccount",
+                "workingDirectory": "c:\\Users\\pyded\\Documents\\Dev\\TestJava\\BankAccount\\bankaccount",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "bankaccount",
+                "projectName": "bankaccount",
+                "workingDirectory": "c:\\Users\\pyded\\Documents\\Dev\\TestJava\\BankAccount\\bankaccount",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}

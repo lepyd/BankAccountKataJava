@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BankAccountApplication<bankaccount>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.bankaccount.bankaccount.BankAccountApplication",
+            "projectName": "bankaccount",
+            "args": ""
+        }
+    ]
+}
